@@ -1,9 +1,12 @@
-# Expressway (Easy) 🟢
 <div align="center">
+  <p style="font-size: 520px; margin: 0;">
+    <h1> <b>Expressway</b> </h1>
+  </p>
 </div>
-<img width="320" height="297" src="images/Expressway.png">
+    
+<p align="center">
+  <img width="256" height="297" src="images/Expressway.png" alt="Expressway">
 </p>
-
 ## Well, this machine didn't seem too complicated to me, to be honest.
 You have to do the reconnaissance phase, including scanning the UDP ports (using `-sU` in `nmap`), and that's where you'll discover what you'll need to use. 
 
