@@ -1,11 +1,13 @@
 
-# Reactor (Easy) 🟢
-
 <div align="center">
+  <p style="font-size: 520px; margin: 0;">
+    <h1> <b>Reactor</b> </h1>
+  </p>
 </div>
-<img width="256" height="256" src="IMG/reactor.png">
+    
+<p align="center">
+  <img width="256" height="297" src="IMG/reactor.png" alt="Reactor">
 </p>
-
 
 
 ## Summary
