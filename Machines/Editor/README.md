@@ -1,7 +1,11 @@
-# Editor (Easy) 🟢
 <div align="center">
+  <p style="font-size: 520px; margin: 0;">
+    <h1> <b>Editor</b> </h1>
+  </p>
 </div>
-<img width="256" height="297" src="images/Editor.png">
+    
+<p align="center">
+  <img width="256" height="297" src="images/Editor.png" alt="Editor">
 </p>
 
 ## This machine has become more complicated for me, and I will explain why below.
