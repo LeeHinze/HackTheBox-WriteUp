@@ -4,12 +4,6 @@
   <img width="256" height="297" src="Images/WhiteRabbit.png" alt="White Rabbit">
 </p>
 
-> [!IMPORTANT]
-> This document describes the solution to **White Rabbit**, a purpose-built
-> **Hack The Box** lab machine. Every test was performed inside that authorized,
-> isolated environment. The techniques shown here are strictly educational and
-> must not be used against systems without explicit permission.
-
 ## Machine information
 
 | Field | Value |
