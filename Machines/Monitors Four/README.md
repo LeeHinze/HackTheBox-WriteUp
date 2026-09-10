@@ -1,7 +1,11 @@
-# Monitors Four (Easy) 🟢
 <div align="center">
+  <p style="font-size: 520px; margin: 0;">
+    <h1> <b>Monitors Four</b> </h1>
+  </p>
 </div>
-<img width="256" height="297" src="c7878dd8dba2eb248a89584ec958a5b8.png">
+    
+<p align="center">
+  <img width="256" height="297" src="c7878dd8dba2eb248a89584ec958a5b8.png" alt="Strutted">
 </p>
 
 It's an excessively complicated machine to be placed in the easy section.
