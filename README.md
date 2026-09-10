@@ -20,6 +20,7 @@
 ### - [Eighteen (Windows) (10.10.11.95)](Machines/Eighteen/)
 ### - [Monitors Four (Windows) (10.10.11.99)](Machines/Monitors%20Four/)
 ### - [Reactor (Linux) (10.129.245.214)](Machines/Reactor/)
+### - [Paperwork (Linux) (10.129.248.117)](Machines/Paperwork/)
 
 ##
 
