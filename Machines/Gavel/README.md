@@ -1,8 +1,13 @@
-# Gavel (Medium) 🟠
 <div align="center">
+  <p style="font-size: 520px; margin: 0;">
+    <h1> <b>Gavel</b> </h1>
+  </p>
 </div>
-<img width="256" height="297" src="Images/gavel.png">
+    
+<p align="center">
+  <img width="256" height="297" src="Images/gavel.png" alt="Gavel">
 </p>
+
 
 #
 Let's get straight to start the reconnaissance phase:
