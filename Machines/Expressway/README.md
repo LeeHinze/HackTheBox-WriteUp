@@ -1,7 +1,7 @@
 # Expressway (Easy) 🟢
 <div align="center">
 </div>
-<img width="320" height="297" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Expressway/images/Expressway.png">
+<img width="320" height="297" src="images/Expressway.png">
 </p>
 
 ## Well, this machine didn't seem too complicated to me, to be honest.
@@ -60,7 +60,6 @@ I liked the machine, it's not my first time on HackTheBox.
 I've completed some before, but my account is gone and the machines are no longer active. 
 
 But I liked it, I found it fun. Good luck completing it.
-
 
 
 

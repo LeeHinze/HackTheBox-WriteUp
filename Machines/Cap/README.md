@@ -1,7 +1,7 @@
 # Cap (Easy) 🟢
 <div align="center">
 </div>
-<img width="256" height="256" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Cap/Images/Cap.png">
+<img width="256" height="256" src="Images/Cap.png">
 </p>
 
 ## This machine was really easy. After completing other, more complex ones, this one felt like a gift.
@@ -58,7 +58,7 @@ It will redirect us to a page with a subdirectory called `/data/(int)`. Within t
 So, we're going to start (and finish) from the first one. We'll enter /data/0 and download the .pcap file.
 <div align="center">
 </div>
-<img width="1920" height="1080" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Cap/Images/Download%20the%20.pcap.png">
+<img width="1920" height="1080" src="Images/Download%20the%20.pcap.png">
 </p>
 
 #
@@ -178,4 +178,3 @@ python3.8 -c 'import os; os.setuid(0); os.system("bash")'
 Entering this command will grant us root privileges. In `setuid`, a value of 0 signifies being the administrator or superuser.
 
 The `bash` command is used to switch the user from Nathan to root. Now you can have the root flag in /root.
-

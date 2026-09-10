@@ -29,7 +29,7 @@ HTB{flag_here}
 
 <div align="center">
 </div>
-<img width="1024" height="1024" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Challenges/IMG/Proof.PNG">
+<img width="1024" height="1024" src="IMG/Proof.PNG">
 </p>
 
 ## Takeaway

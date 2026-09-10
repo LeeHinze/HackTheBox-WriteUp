@@ -1,7 +1,7 @@
 # Strutted (Medium) 🟠
 <div align="center">
 </div>
-<img width="256" height="297" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Strutted/Images/cb2df0a9511e5634451e3fb6c8ddc509.png">
+<img width="256" height="297" src="Images/cb2df0a9511e5634451e3fb6c8ddc509.png">
 </p>
 
 ## It's been complicated, but not too much really.
@@ -116,5 +116,4 @@ And that's it. This isn't so much a write-up as it is a superficial guide on how
 I found the machine somewhat complicated, but not as difficult as Eighteen. For being in the Medium category, it wasn't too hard.
 
 Good luck completing it!
-
 

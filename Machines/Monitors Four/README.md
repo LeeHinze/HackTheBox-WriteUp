@@ -1,7 +1,7 @@
 # Monitors Four (Easy) 🟢
 <div align="center">
 </div>
-<img width="256" height="297" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Monitors%20Four/c7878dd8dba2eb248a89584ec958a5b8.png">
+<img width="256" height="297" src="c7878dd8dba2eb248a89584ec958a5b8.png">
 </p>
 
 It's an excessively complicated machine to be placed in the easy section.
@@ -62,7 +62,7 @@ and the page will tell us `{"error: Missing token parameter"}`, so we need an ex
 
 <div align="center">
 </div>
-<img width="1920" height="1080" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Monitors%20Four/Images/user%3Ftoken%3D0.png">
+<img width="1920" height="1080" src="Images/user_token=0.png">
 </p>
 
 
@@ -109,7 +109,7 @@ We must add `cacti.monitorsfour.htb` on /etc/hosts
 
 <div align="center">
 </div>
-<img width="1000" height="1000" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Monitors%20Four/Images/Cacti.png.png">
+<img width="1000" height="1000" src="Images/Cacti.png.png">
 </p>
 
 Cacti has version 1.2.28, which has an RCE vulnerability, `CVE-2025-24367`.

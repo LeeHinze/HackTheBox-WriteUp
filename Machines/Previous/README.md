@@ -1,7 +1,7 @@
 # Previous (Medium) 🟠
 <div align="center">
 </div>
-<img width="256" height="297" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Previous/images/Previous.png">
+<img width="256" height="297" src="images/Previous.png">
 </p>
 
 As always, I start with the usual process, the scanning phase.
@@ -38,14 +38,14 @@ You should see a URL where you'll need to do the same thing. Then, you'll need t
 
 <div align="center">
 </div>
-<img width="800" height="800" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Previous/images/ssh%40jeremy.png">
+<img width="800" height="800" src="images/ssh%40jeremy.png">
 </p>
 
 So now we're going to escalate privileges to root, so let's put `sudo -l`.
 
 <div align="center">
 </div>
-<img width="800" height="800" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Previous/images/sudo -l.png">
+<img width="800" height="800" src="images/sudo%20-l.png">
 </p>
 
 We're going to go to the `/opt/examples` location and look at the main.tf.

@@ -3,7 +3,7 @@
 
 <div align="center">
 </div>
-<img width="256" height="256" src="https://github.com/JammerDEV-Es/HackTheBox-WriteUp/blob/main/Reactor/IMG/reactor.png">
+<img width="256" height="256" src="IMG/reactor.png">
 </p>
 
 
@@ -49,7 +49,7 @@ A reverse shell connection was received on port 4444 as the user `node`.
 
 <div align="center">
 </div>
-<img width="1024" height="1024" src="https://github.com/JammerDEV-Es/HackTheBox-WriteUp/blob/main/Reactor/IMG/password%20hash.png">
+<img width="1024" height="1024" src="IMG/password%20hash.png">
 </p>
 
 Inspecting the web application's files revealed an SQLite database. Extracting strings from it exposed a `users` table with a stored credential:
@@ -73,7 +73,7 @@ ssh engineer@reactor.htb  # Password: reactor1
 ```
 <div align="center">
 </div>
-<img width="800" height="800" src="https://github.com/JammerDEV-Es/HackTheBox-WriteUp/blob/main/Reactor/IMG/reactorssh.PNG">
+<img width="800" height="800" src="IMG/reactorssh.PNG">
 </p>
 
 At this point the user flag was readable at `/home/engineer/user.txt`.
@@ -99,7 +99,7 @@ node inspect 127.0.0.1:9229
 ```
 <div align="center">
 </div>
-<img width="800" height="800" src="https://github.com/JammerDEV-Es/HackTheBox-WriteUp/blob/main/Reactor/IMG/node.PNG">
+<img width="800" height="800" src="IMG/node.PNG">
 </p>
 
 From the `debug>` prompt, the process's global execution object was abused to set the SUID bit on `/bin/bash`:

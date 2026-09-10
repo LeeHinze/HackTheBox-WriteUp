@@ -1,7 +1,7 @@
 # Editor (Easy) 🟢
 <div align="center">
 </div>
-<img width="256" height="297" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Editor/images/Editor.png">
+<img width="256" height="297" src="images/Editor.png">
 </p>
 
 ## This machine has become more complicated for me, and I will explain why below.
@@ -59,7 +59,7 @@ Port `8080` tells us about XWiki, so let's put this in the browser: `http://edit
 
 <div align="center">
 </div>
-<img width="1920" height="297" src="https://github.com/JammerDEV-Es/HackTheBox-ReviewAndWriteup/blob/main/Editor/images/XWiki%20Version.png">
+<img width="1920" height="297" src="images/XWiki%20Version.png">
 </p>
 
 You'll see that the XWiki version is outdated, so you'll have to look for a vulnerability associated with it, `CVE-2025-24893`
@@ -77,7 +77,6 @@ After doing everything I said before, you have to connect via `SSH` to a user wi
 I liked it, but it got complicated and I spent a couple of hours trying to figure out what to do.
 
 it was difficult for my second lab. I made a brief summary, in case I want to do it again to recap, and for users who want a guide.
-
 
 
 
