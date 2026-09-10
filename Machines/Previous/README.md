@@ -1,8 +1,13 @@
-# Previous (Medium) 🟠
 <div align="center">
+  <p style="font-size: 520px; margin: 0;">
+    <h1> <b>Previous</b> </h1>
+  </p>
 </div>
-<img width="256" height="297" src="images/Previous.png">
+    
+<p align="center">
+  <img width="256" height="297" src="images/Previous.png" alt="Previous">
 </p>
+
 
 As always, I start with the usual process, the scanning phase.
 ```bash
