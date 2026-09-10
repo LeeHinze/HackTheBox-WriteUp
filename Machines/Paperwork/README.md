@@ -5,7 +5,7 @@
 </div>
     
 <p align="center">
-  <img width="256" height="297" src="IMG/Machines/Paperwork/IMG/a1ee24ec-e2f1-4c61-88ca-9d7d4d296251-1780441937.png" alt="Paperwork">
+  <img width="256" height="297" src="https://github.com/LeeHinze/HackTheBox-WriteUp/blob/main/Machines/Paperwork/IMG/a1ee24ec-e2f1-4c61-88ca-9d7d4d296251-1780441937.png">
 </p>
 
 
