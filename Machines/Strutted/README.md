@@ -1,10 +1,14 @@
-# Strutted (Medium) 🟠
 <div align="center">
+  <p style="font-size: 520px; margin: 0;">
+    <h1> <b>White Rabbit</b> </h1>
+  </p>
 </div>
-<img width="256" height="297" src="Images/cb2df0a9511e5634451e3fb6c8ddc509.png">
+    
+<p align="center">
+  <img width="256" height="297" src="Images/cb2df0a9511e5634451e3fb6c8ddc509.png" alt="Strutted">
 </p>
 
-## It's been complicated, but not too much really.
+### It's been complicated, but not too much really.
 The first step will be to carry out the reconnaissance phase with nmap:
 
 ```bash
