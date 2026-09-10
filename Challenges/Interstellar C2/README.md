@@ -1,15 +1,5 @@
 # Interstellar C2
 
-## Overview
-
-**Interstellar C2** is a Hack The Box forensic challenge that provides a
-network capture named `capture.pcapng`. The goal is not to search for the flag
-directly among the strings in the file, but to reconstruct a multi-stage
-infection and understand how the implant exchanges commands and results with
-its command-and-control server.
-
-The investigation involves obfuscated PowerShell, AES encryption, .NET
-assemblies, **PoshC2** traffic, and data disguised as PNG images.
 
 ## 1. Initial traffic analysis
 
