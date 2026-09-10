@@ -1,4 +1,9 @@
-# White Rabbit
+<div align="center">
+  <p style="font-size: 520px; margin: 0;">
+    <h1> <b>White Rabbit</b> </h1>
+  </p>
+</div>
+
 
 <p align="center">
   <img width="256" height="297" src="Images/WhiteRabbit.png" alt="White Rabbit">
