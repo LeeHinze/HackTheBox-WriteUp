@@ -1,6 +1,6 @@
 <div align="center">
   <p style="font-size: 520px; margin: 0;">
-    <h1> <b>White Rabbit</b> </h1>
+    <h1> <b>Strutted</b> </h1>
   </p>
 </div>
     
